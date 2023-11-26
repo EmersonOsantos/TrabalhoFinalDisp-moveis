@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#0830A8</color>
+    <color name="azul_claro">#5683CF</color>
+    <color name="bege">#785A64</color>
+    <color name="black">#FF000000</color>
+    <color name="cinza">#4B4C4C</color>
+    <color name="orange">#ffb344</color>
+    <color name="pink">#fb5288</color>
+    <color name="pink_light">#f899b9</color>
+    <color name="verde">#36AE28</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TrabalhoFinal</string>
+    <string name="entrar">Entrar</string>
+    <string name="gcm_defaultSenderId" translatable="false">991835852487</string>
+    <string name="google_api_key" translatable="false">AIzaSyDR_nL6oCrt9hZl2qrcrmCWtUKyAN12Luk</string>
+    <string name="google_app_id" translatable="false">1:991835852487:android:695d867f494058816eb8e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDR_nL6oCrt9hZl2qrcrmCWtUKyAN12Luk</string>
+    <string name="google_storage_bucket" translatable="false">tweb2023-2.appspot.com</string>
+    <string name="project_id" translatable="false">tweb2023-2</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <style name="Base.Theme.TrabalhoFinal" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">20dp</item>
+
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="textAllCaps">false</item>
+
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:background">@drawable/button</item>
+
+    </style>
+    <style name="ContainerComponents">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">250dp</item>
+        <item name="android:background">@drawable/container_components</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+    <style name="Edit_Text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:maxLength">25</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+
+    </style>
+    <style name="Theme.TrabalhoFinal" parent="Base.Theme.TrabalhoFinal"/>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991835852487",
+    "project_id": "tweb2023-2",
+    "storage_bucket": "tweb2023-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991835852487:android:695d867f494058816eb8e2",
+        "android_client_info": {
+          "package_name": "com.example.trabalhofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_nL6oCrt9hZl2qrcrmCWtUKyAN12Luk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

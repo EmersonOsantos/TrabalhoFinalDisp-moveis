@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/layout_activity_form_cadastro.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/layout/activity_form_cadastro.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_edit_text.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/edit_text.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-mdpi_ic_f_round.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-mdpi/ic_f_round.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/layout_activity_form_login.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/layout/activity_form_login.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-xxhdpi_ic_f_round.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-xxhdpi/ic_f_round.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-anydpi-v26_ic_f.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-anydpi-v26/ic_f.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-xxxhdpi_ic_f_round.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-xxxhdpi/ic_f_round.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-hdpi_ic_f.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-hdpi/ic_f.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/drawable_container_user.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/drawable/container_user.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/drawable_ic_f_background.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/drawable/ic_f_background.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/layout_activity_tela_principal.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/layout/activity_tela_principal.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/drawable_button.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/layout_activity_form_login.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/layout/activity_form_login.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/drawable_container_components.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/drawable/container_components.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-xhdpi_ic_f.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-xhdpi/ic_f.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-hdpi_ic_f_round.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-hdpi/ic_f_round.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-mdpi_ic_f.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-mdpi/ic_f.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_container_components.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/container_components.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_logo.png.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-anydpi-v26_ic_f_round.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-anydpi-v26/ic_f_round.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-xxhdpi_ic_f.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-xxhdpi/ic_f.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/drawable_ic_f_foreground.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/drawable/ic_f_foreground.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/drawable_bacground.xml.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/drawable/bacground.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_bacground.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/bacground.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_ic_eye.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-xxxhdpi_ic_f.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-xxxhdpi/ic_f.webp"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_ic_user.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_button.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/button.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_ic_email.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-merged_res-36:/drawable_container_user.xml.flat",
+        "source": "/home/emerson/.gradle/daemon/8.0/com.example.trabalhofinal.app-main-38:/drawable/container_user.xml"
+    },
+    {
+        "merged": "com.example.trabalhofinal.app-merged_res-36:/mipmap-xhdpi_ic_f_round.webp.flat",
+        "source": "com.example.trabalhofinal.app-main-38:/mipmap-xhdpi/ic_f_round.webp"
+    }
+]
